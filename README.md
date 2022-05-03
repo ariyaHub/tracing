@@ -10,3 +10,4 @@ The `docker-compose` command also starts up an OpenTelemetry Collector, to which
 
 ## Companion Article
 [Tracing with Spring Boot, OpenTelemetry, and Jaeger](https://reflectoring.io/spring-boot-tracing)
+# tracing
